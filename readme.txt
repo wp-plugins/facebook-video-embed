@@ -12,7 +12,7 @@ Embed a Public Facebook video to any Wordpress post or page.
 
 == Description ==
 
-Embed any public facebook video directly into a wordpress post, without having to write a single line of code. Simply put the facebook video url on a form which is availabe in visual editor of any post.
+Embed any public facebook video directly into a wordpress post, without having to write a single line of code. Simply put the facebook video url on a form which is available in visual editor of any post.
 
 = Supported Embeds =
 * Facebook Videos
