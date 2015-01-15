@@ -1,4 +1,4 @@
-=== Facebook-Video-Embed  ===
+=== Facebook Video Embed  ===
 Contributors: IrfanAnsari
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=megadiscountspot@gmail.com&lc=GB&item_name=Irfan%2dAnsari%2dPlugin&currency_code=EUR&bn=PP%2dDonationsBF%3abtn_donateCC_LG%2egif%3aNonHosted
 Tags: Facebook, facebook, embed facebook video, facebook video, Irfan Ansari
