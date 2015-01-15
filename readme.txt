@@ -21,6 +21,18 @@ Embed any public facebook video directly into a wordpress post, without having t
 Use a shortcode `[fbvideo link="FACEBOOK_PUBLIC_VIDEO-URL" width="500" height="400" onlyvideo="0 or 1"]` 
 Or Use Form [ button available on visual editor on any post or page].
 
+
+== Screenshots ==
+
+1. Icon will show on Viusal editor of post/page.
+2. Fill out the form and enter URL of Facebook video, width and height.
+3. Form will enter the data on editor.
+4. Demo display of Only vidoe parameter is 1.
+5. Demo display of Only vidoe parameter is 0.
+
+
+
+
 == Installation ==
 
 1. Download Facebook-Video-Embed from [Wordpress](http://wordpress.org/plugins/Facebook-Video-Embed)
