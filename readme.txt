@@ -43,3 +43,12 @@ Or Use Form [ button available on visual editor on any post or page].
 
 = Where can i find the Facebook Video URL? =
 * Get the URL, e.g. https://www.facebook.com/video.php?v=10152655761258385
+
+
+== Changelog ==
+
+= 1.0.1 =
+* Fixed facebook new video URL
+
+= 1.0 =
+* Initial release

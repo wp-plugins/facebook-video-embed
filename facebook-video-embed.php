@@ -5,7 +5,7 @@
  * Author: Irfan Ansari 
  * Author URI: http://www.IrfanAnsari.com/
  * Plugin URI: http://irfanansarioffice.github.io/Facebook-Video-Embed-WP-Plugin
- * Version: 1.0
+ * Version: 1.0.1
  */
 
 class IA_WPFacebookVideo {
@@ -61,6 +61,11 @@ class IA_WPFacebookVideo {
 	   	), $atts));
     		$videoID = parse_url($link);
 			parse_str($videoID['query']);
+			if (!$v)
+			{
+				$str = explode("/", $link);
+				$v = $str[count($str)-2];
+			}
 			return $this->getContent($v, (int) $width, (int) $height, (int) $onlyvideo);
     }
 
